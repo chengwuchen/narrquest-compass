@@ -1,2 +1,2 @@
-# NarrQuest Compass App (穩定部署版)
-包含完整互動問卷、語氣分析與 UI 元件，適用 Vercel 一鍵部署
+# NarrQuest Compass App
+支援 Vercel，使用 .js 模組

@@ -1,2 +1,2 @@
-# NarrQuest Compass App
-語氣診斷互動版 App，含問卷互動與結果演算展示。
+# NarrQuest Compass App (穩定部署版)
+包含完整互動問卷、語氣分析與 UI 元件，適用 Vercel 一鍵部署
